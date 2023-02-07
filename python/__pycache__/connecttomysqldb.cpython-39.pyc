@@ -1,0 +1,12 @@
+a
+    <aH`Í  ã                   @   s(   d dl Zd dl mZ d dlT dd„ ZdS )é    N)ÚError)Ú*c               
+   C   s€   zJt ƒ } tjj|  dd¡|  dd¡|  dd¡|  dd¡|  dd¡d}|W S  ttfyz } zt|ƒ W Y d }~n
+d }~0 0 d S )NZDBÚhostÚdatabaseZusernameÚpasswordÚport)r   r   Úuserr   r   )Zread_db_paramsÚmysqlZ	connectorÚconnectÚgetÚ	Exceptionr   Úprint)ÚparamsÚconnÚerror© r   ú[D:\Practice & Blogs\Python programming\aws\jcg-python-assignments\mysql\connecttomysqldb.pyr
+   	   s    
+
+
+
+
+ûr
+   )Zmysql.connectorr	   r   Zreaddbconfigr
+   r   r   r   r   Ú<module>   s   

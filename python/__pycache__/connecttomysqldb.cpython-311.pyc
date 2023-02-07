@@ -1,0 +1,8 @@
+§
+    I`Í  ã                   ó(   — d dl Zd dl mZ d dlT d„ ZdS )é    N)ÚError)Ú*c            
+      ó  — 	 t          ¦   «         } t          j                             |                      dd¦  «        |                      dd¦  «        |                      dd¦  «        |                      dd¦  «        |                      dd¦  «        ¬¦  «        }|S # t
+          t          f$ r}t          |¦  «         Y d }~d S d }~ww xY w)NÚDBÚhostÚdatabaseÚusernameÚpasswordÚport)r   r   Úuserr
+   r   )Úread_db_paramsÚmysqlÚ	connectorÚconnectÚgetÚ	Exceptionr   Úprint)ÚparamsÚconnÚerrors      úSC:\Users\-e-\Downloads\CRUD-Operations-in-Python-on-MySQL\mysql\connecttomysqldb.pyr   r   	   sÇ   € ğåÑ!Ô!ˆõ Œ×&Ò&Ø—’˜D &Ñ)Ô)Ø—Z’Z  jÑ1Ô1Ø—’˜D *Ñ-Ô-Ø—Z’Z  jÑ1Ô1Ø—’˜D &Ñ)Ô)ğ 'ñ 
+ô 
+ˆğ ˆøİ•eĞ
+ğ ğ ğ İˆe‰Œˆˆˆˆˆˆˆøøøøğøøøs   ‚BB ÂCÂ+C Ã C)Úmysql.connectorr   r   Úreaddbconfigr   © ó    r   ú<module>r      sJ   ğğ Ğ Ğ Ğ Ø !Ğ !Ğ !Ğ !Ğ !Ğ !à Ğ Ğ Ğ ğğ ğ ğ ğ r   
